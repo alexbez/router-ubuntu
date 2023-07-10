@@ -12,3 +12,5 @@ IP address for wlan0 is assigned by Internet provider's DHCP.
 Internal routing between eth0 and wlan0 is organized. 
 
 Wireshark running on the router laptop can sniff the network traffic coming from/to client device.
+
+Instead of the wireless interface wlan0 a second Ethernet interface eth1 (for example, via USB<-->Ethernet dongle) can be used. In this case eth1 connects to the WAN.
