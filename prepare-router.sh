@@ -1,7 +1,7 @@
 #/bin/sh
 set -eu
 echo "=========================================================="
-echo "                 ROTER PREPARATION SCRIPT"
+echo "                 ROUTER PREPARATION SCRIPT"
 echo "=========================================================="
 
 if [ "$(id -u)" != "0" ]; then
